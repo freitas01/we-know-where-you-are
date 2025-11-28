@@ -5,16 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cde33dd-5e85-4386-be97-5d28662224f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/we-know-where-you-are.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/face_engine/matcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metadata/extractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/osint/yandex_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/database/faces.db" beforeDir="false" afterPath="$PROJECT_DIR$/data/database/faces.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/input/IMG_0103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ingest_faces.py" beforeDir="false" afterPath="$PROJECT_DIR$/ingest_faces.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/repository.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/face_engine/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/face_engine/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/face_engine/encoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/face_engine/encoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/metadata/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/metadata/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/osint/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/osint/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +41,9 @@
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="36434uS3WUOxYOCoYH87X0c6xzs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,7 +53,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">

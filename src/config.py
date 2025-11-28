@@ -23,3 +23,7 @@ DATABASE_URL = f"sqlite:///{DATABASE_DIR}/faces.db"
 FACE_DETECTION_MODEL = "retinaface"
 # ArcFace é o estado da arte pra transformar rosto em números
 FACE_RECOGNITION_MODEL = "ArcFace"
+
+# Face matching settings
+FACE_DISTANCE_THRESHOLD = 0.6  # Cosine distance: < 0.6 = same person
+FACE_DISTANCE_METRIC = "cosine"
